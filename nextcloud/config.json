@@ -4,7 +4,7 @@
     "slug": "nextcloud",
     "description": "Self-hosted file share and collaboration platform on the web",
     "url": "https://github.com/nathanfiscus/hassio-addons/tree/master/nextcloud",
-    "webui": "http://[HOST]/cloud:[PORT:80]",
+    "webui": "http://[HOST]:[PORT:80]",
     "panel_icon": "mdi:cloud-sync",
     "startup": "services",
     "boot": "auto",
